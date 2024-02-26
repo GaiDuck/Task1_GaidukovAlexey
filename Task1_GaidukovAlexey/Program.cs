@@ -18,7 +18,7 @@ namespace Task1_GaidukovAlexey
             double arithmeticMean;
             double medianMean;
 
-            Console.WriteLine("Создаем массив случайный чисел:");
+            Console.WriteLine("Создаем массив случайных чисел:");
 
             for (int i = 0; i < value.Length; i++)
             {
